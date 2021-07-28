@@ -1,3 +1,11 @@
+A React.js Weather Application using Open Weather API
+
+Skills Targeted:
+
+Using react functional components
+  * Practicing react hooks
+  * Using Chart.js
+  * Implementing the UI using Chakra-UI
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
